@@ -26,7 +26,7 @@ This are list of ideas that can be used as problem statement for the project cho
 
 > 1. A basic website for those who haven't worked on any project but they want to have a good start - Make a Website with payment integration using API of PAYTM,RAZORPAY,PAYPAL,etc.(anyone among them). Website's basic theme should be on donation purpose only. 
 > 2. A social media like platform where only CWC members can share their ideas and coding related issues/doubts with features: like ,comment,delete the posts, using any web framework with backend.
-> 3. A GUI based login and signup interface for a company which will contain features ,employee's data like his name,age,skills,cerifications,..etc.(This project will give you a basic idea about frontend and backend implementation).
+> 3. A GUI based login and signup interface for a company which will contain features i.e. employee's data like his name,age,skills,cerifications,..etc.(This project will give you a basic idea about frontend and backend implementation).
  
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
