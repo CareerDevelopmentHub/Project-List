@@ -20,7 +20,7 @@ This are list of ideas that can be used as problem statement for the project cho
 > 11. Message scheduler an app that keeps all the recode of social media apps and is capable of sending the message automatically as per the scheduled time fixed by the user and if devices if powered resume it and send. 
 > 12. Air canvas a project where you write in the air and your camera detects your writing and keep the track of it.
 > 13. An app that is capable of encrypting and decrypting the messages exchanged between users.
-> 14. Audiobook reader an app where you can upload your file (.txt, .docx, .pdf), etc and it read the file and it should have an option to pause read again pitch and voice speed.
+> 14. Audiobook reader an app where you can upload your file (.txt, .docx, .pdf), etc and it read the file in your desired language i.e. translated and it should also have an option to pause read again pitch and voice speed.
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
