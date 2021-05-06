@@ -25,3 +25,8 @@ This are list of ideas that can be used as problem statement for the project cho
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
 > 1. A basic website for those who haven't worked on any project but they want to have a good start - Make a Website with payment integration using API of PAYTM,RAZORPAY,PAYPAL,etc.(anyone among them). Website's basic theme should be on donation purpose only. 
+ 
+* [Vinayak](https://github.com/ASVKVINAYAK)
+
+> 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. 
+     From the app users can even find a correct team partner with required skills for their new project ideas. 
