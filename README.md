@@ -34,3 +34,7 @@ This are list of ideas that can be used as problem statement for the project cho
 * [Kshitiz Ranjan](https://github.com/kshitizranjan15)
 
 > 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem.
+
+* [SumanMore](https://github.com/SumanMore)
+
+> 1. A web application "text-to-speech" that includes a set of controls for entering the text to be synthesized and setting the pitch ,rate ,accent etc. when the text is uttered.It can also include features like speech-to-text and pdf to audiobooks.
