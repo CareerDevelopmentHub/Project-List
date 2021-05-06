@@ -31,6 +31,6 @@ This are list of ideas that can be used as problem statement for the project cho
 > 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. 
      From the app users can even find a correct team partner with required skills for their new project ideas. 
      
-     * [KSHITIZ RANJAN](https://github.com/kshitizranjan15)
+* [KSHITIZ RANJAN](https://github.com/kshitizranjan15)
 
 > 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem.
