@@ -17,6 +17,7 @@ This are list of ideas that can be used as problem statement for the project cho
 > 8. An system which can make price comparision from different website and give you the lowest price.
 > 9. Breast Cancer Detection.
 > 10. A multi-client chat app that saves the chat only as per user acceptance else destroy all the history with the other user.
+> 11. Message scheduler an app that keeps all the recode of social media apps and is capable of sending the message automatically as per the scheduled time fixed by the user and if devices if powered resume it and send. 
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
