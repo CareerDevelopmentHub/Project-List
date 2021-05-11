@@ -40,3 +40,10 @@ This are list of ideas that can be used as problem statement for the project cho
 * [SumanMore](https://github.com/SumanMore)
 
 > 1. A web application "text-to-speech" that includes a set of controls for entering the text to be synthesized and setting the pitch ,rate ,accent etc. when the text is uttered.It can also include features like speech-to-text and pdf to audiobooks.
+
+* [Sourav Bera](https://github.com/Zeo-shark)
+
+> 1. An advanced Matrix Calculator app in android and flutter that can be used to calculate derive answers for different properties of the matrix such as rank, multiplication, eigenvalues, eigenvectors etc (for everything we studied in ALA).
+> 2. Smart Travel guide systems powered by AR Technology. That can use map api along with some relevant api data to show valuable information about the place before travel and also provide them a 3D view of the place as a preview.
+> 3. A serverless chat application using socket programming.
+> 4. Intelligent chess game solver with computer and user. Using JavaFx and Java.
