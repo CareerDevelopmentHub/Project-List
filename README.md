@@ -55,3 +55,7 @@ in the following format "ritu2110".
 > 2. Smart Travel guide systems powered by AR Technology. That can use map api along with some relevant api data to show valuable information about the place before travel and also provide them a 3D view of the place as a preview.
 > 3. A serverless chat application using socket programming.
 > 4. Intelligent chess game solver with computer and user. Using JavaFx and Java.
+
+* [Sahil Agarwal](https://github.com/agarwalsahil0210)
+
+> 1. An app to write formatted prescriptions based on dictation from doctor. The app should provide facility to sign the prescription and also send to the patient directly on his phone and email id.
