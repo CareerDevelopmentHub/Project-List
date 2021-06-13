@@ -44,6 +44,7 @@ in the following format "ritu2110".
 * [Kshitiz Ranjan](https://github.com/kshitizranjan15)
 
 > 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem.
+> 2. An App that can helps farmers to see weather Before Cultivation.
 
 * [SumanMore](https://github.com/SumanMore)
 
