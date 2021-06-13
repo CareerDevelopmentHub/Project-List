@@ -41,7 +41,7 @@ in the following format "ritu2110".
 > 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem.
 > 2. An App that can helps farmers to see weather Before Cultivation.
 > 3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
-> 4. An Application which will track our attendance,display semester records and also all notices whic issued by college and university.
+> 4. An Application which will track our attendance,display semester records and also all notices which issued by college and university.
  
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
