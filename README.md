@@ -29,6 +29,8 @@ b. If student try to access any other student database a message will be display
 c. To access his/her database student have to enter the Id and a password that includes first 4 letter of the first name and the dob
 in the following format "ritu2110".
 > 16. Given two polynomials, represent them by two linked lists and add these lists.
+> 17. Text-Based Adventure Game like hangman.
+> 18. Webpage scraping.
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
