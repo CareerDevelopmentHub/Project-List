@@ -37,6 +37,8 @@ in the following format "ritu2110".
 > 1. A basic website for those who haven't worked on any project but they want to have a good start - Make a Website with payment integration using API of PAYTM,RAZORPAY,PAYPAL,etc.(anyone among them). Website's basic theme should be on donation purpose only. 
 > 2. A social media like platform where only CWC members can share their ideas and coding related issues/doubts with features: like ,comment,delete the posts, using any web framework with backend.
 > 3. A GUI based login and signup interface for a company which will contain features i.e. employee's data like his name,age,skills,cerifications,..etc.(This project will give you a basic idea about frontend and backend implementation).
+> 4. A Java project that will convert all the forms of currency , weight ,height and temperature. Your program should ask the user that which type of conversion he/she wants to do and after selecting that he/she should be able to enter the type of conversion like if he wants to do currency conversion then he/she should be able to do the type of currency convert.Eg. USD to INR or INR to USD and vice versa.
+> 5. Make a java project to convert the text or numeric value to any type of encoded text and it should finally bring back to original text and print both the encoded and decoded text after encryption. 
 
 * [Kshitiz Ranjan](https://github.com/kshitizranjan15)
 
