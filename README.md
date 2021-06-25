@@ -1,7 +1,7 @@
 # Project-List
 [![](https://img.shields.io/badge/CWC-ITER-gray.svg?style=for-the-badge&colorB=0000f&logo=github)](https://elastic-bose-ed6583.netlify.app/)
 
-This are list of ideas that can be used as problem statement for the project choice
+These are list of ideas that can be used as problem statement for the project choice
 
 ## List of Project Ideas
 
@@ -48,9 +48,7 @@ in the following format "ritu2110".
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
 > 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. 
-     From the app users can even find a correct team partner with required skills for their new project ideas.
-> 2. Algorithm Visualizer - A GUI Application where user can view how algorithms work like if he enters to sort an array then it will show the process, also solves given test        cases.
-> 3. A web app / android app which shows user's ranking in one place like it shows user ranking of Hackerrank, Codechef with a practice area where user can find all important          algorithms questions in one place.     
+     From the app users can even find a correct team partner with required skills for their new project ideas. 
 
 * [SumanMore](https://github.com/SumanMore)
 
@@ -66,3 +64,9 @@ in the following format "ritu2110".
 * [Sahil Agarwal](https://github.com/agarwalsahil0210)
 
 > 1. An app to write formatted prescriptions based on dictation from doctor. The app should provide facility to sign the prescription and also send to the patient directly on his phone and email id.
+
+* [Abhipsha Sahu](https://github.com/07Abhipsha)
+
+> 1. Snake Game: The goal of this game is to make the snake eat the tokens which are its food w/o the snake being touched to the boundary on the screen. Every time the snake eats the token the score is updated. The player loses when the snake touches the boundary & the final score is displayed.
+> 2. College Finder App where students can enter entrance exam and marks to know their rank and view(Use necessary Filters like State, Branch, etc to search) eligible colleges/universities.Include Direct form fill up facility to the college through your website.
+> 3. Students' Grievance System where students of a college send feedback or complaint regarding hostel/teaching/transport, etc. to the respective departments of the University/College.
