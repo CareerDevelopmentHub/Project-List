@@ -47,8 +47,9 @@ in the following format "ritu2110".
  
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
-> 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. 
-     From the app users can even find a correct team partner with required skills for their new project ideas. 
+> 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. From the app users can even find a correct team partner with required skills for their new project ideas.
+> 2. Algorithm Visualizer - A GUI Application where user can view how algorithms work like if he enters to sort an array then it will show the process, also solves given test        cases.
+> 3. A web app / android app which shows user's ranking in one place like it shows user ranking of Hackerrank, Codechef with a practice area where user can find all important          algorithms questions in one place.  
 
 * [SumanMore](https://github.com/SumanMore)
 
