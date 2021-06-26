@@ -1,5 +1,5 @@
 # Project-List
-[![](https://img.shields.io/badge/CWC-ITER-gray.svg?style=for-the-badge&colorB=0000f&logo=github)](https://elastic-bose-ed6583.netlify.app/)
+[![](https://img.shields.io/badge/CWC-ITER-gray.svg?style=for-the-badge&colorB=0000f&logo=github)](https://cwciter.netlify.app/)
 
 These are list of ideas that can be used as problem statement for the project choice
 
