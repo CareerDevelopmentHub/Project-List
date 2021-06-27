@@ -73,3 +73,13 @@ in the following format "ritu2110".
 > 1. Snake Game: The goal of this game is to make the snake eat the tokens which are its food w/o the snake being touched to the boundary on the screen. Every time the snake eats the token the score is updated. The player loses when the snake touches the boundary & the final score is displayed.
 > 2. College Finder App where students can enter entrance exam and marks to know their rank and view(Use necessary Filters like State, Branch, etc to search) eligible colleges/universities.Include Direct form fill up facility to the college through your website.
 > 3. Students' Grievance System where students of a college send feedback or complaint regarding hostel/teaching/transport, etc. to the respective departments of the University/College.
+
+* [Niharika Prasad](https://github.com/NiharikaPd0101)
+
+> 1. Project that is used to design a medical store system for booking online. So that it reaches in 24/7 to the customer. The proposed system revolutionizes the industry completely. The maintaining of product search , placing an order, billing and product stock also maintained through one click. The product order can be placed easily and tracked at any time. Once the product order is done , the payment can be made through debit cards.
+> 2. Divorce Management System
+Financial and Quality of Life calculator. Platform analyses marriage duration, and asset roadmaps to generate quantitatively fair divorce settlements.
+> 3. Sometimes, we forgot to take care of very basic things of our life such as drinking water, buying groceries, pay premiums of insurance, renewal of bank investment, utility bills, and more. These activities you need to do on time to time to avoid the consequences.
+Reminder web app reminds you about certain activities that you need to perform in your daily routine life as it helps users to perform their different things in time. Moreover, the remind app can be used by all age groups.
+> 4. Normally, we switch tabs to surf various social media accounts at a time on our mobile devices. This app will combine all the significant social media such as Twitter, Facebook, Instagram, etc. and will act as a single platform that the user needs to be on.
+
