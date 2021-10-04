@@ -31,6 +31,7 @@ in the following format "ritu2110".
 > 16. Given two polynomials, represent them by two linked lists and add these lists.
 > 17. Text-Based Adventure Game like hangman.
 > 18. Webpage scraping.
+> 19. Real time Object Detection
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
