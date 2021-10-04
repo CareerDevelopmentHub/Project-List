@@ -82,5 +82,5 @@ in the following format "ritu2110".
 Financial and Quality of Life calculator. Platform analyses marriage duration, and asset roadmaps to generate quantitatively fair divorce settlements.
 > 3. Sometimes, we forgot to take care of very basic things of our life such as drinking water, buying groceries, pay premiums of insurance, renewal of bank investment, utility bills, and more. These activities you need to do on time to time to avoid the consequences.
 Reminder web app reminds you about certain activities that you need to perform in your daily routine life as it helps users to perform their different things in time. Moreover, the remind app can be used by all age groups.
-> 4. Normally, we switch tabs to surf various social media accounts at a time on our mobile devices. This app will combine all the significant social media such as Twitter, Facebook, Instagram, etc. and will act as a single platform that the user needs to be on.
+> 4. Normally, we switch tabs to surf various social media accounts at a time on our mobile devices. This app will combine all the significant social media such as Twitter, Facebook, Instagram, etc. and will act as a single platform that the user needs to be on..
 
