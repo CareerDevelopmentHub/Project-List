@@ -47,6 +47,7 @@ in the following format "ritu2110".
 > 2. An App that can helps farmers to see weather Before Cultivation.
 > 3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
 > 4. An Application which will track our attendance,display semester records and also all notices which issued by college and university.
+> 5.An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development)
  
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
