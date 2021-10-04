@@ -31,7 +31,8 @@ in the following format "ritu2110".
 > 16. Given two polynomials, represent them by two linked lists and add these lists.
 > 17. Text-Based Adventure Game like hangman.
 > 18. Webpage scraping.
-> 19. Real time Object Detection
+> 19. Real time Object Detection.
+> 20. An app that makes use of Github's API to tug your wide variety of contributions from Github and merge display them withinside the repute bar of your phone. Also an in depth precis of contributions might be made to be had on clicking the notification.
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
@@ -47,7 +48,10 @@ in the following format "ritu2110".
 > 2. An App that can helps farmers to see weather Before Cultivation.
 > 3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
 > 4. An Application which will track our attendance,display semester records and also all notices which issued by college and university.
-> 5.An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development). 
+
+
+> 5. An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development)
+
  
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
