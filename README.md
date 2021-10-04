@@ -31,7 +31,8 @@ in the following format "ritu2110".
 > 16. Given two polynomials, represent them by two linked lists and add these lists.
 > 17. Text-Based Adventure Game like hangman.
 > 18. Webpage scraping.
-> 19. Real time Object Detection
+> 19. Real time Object Detection.
+> 20. An app that makes use of Github's API to tug your wide variety of contributions from Github and merge display them withinside the repute bar of your phone. Also an in depth precis of contributions might be made to be had on clicking the notification.
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
