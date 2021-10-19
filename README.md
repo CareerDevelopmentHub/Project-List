@@ -93,7 +93,7 @@ Financial and Quality of Life calculator. Platform analyses marriage duration, a
 Reminder web app reminds you about certain activities that you need to perform in your daily routine life as it helps users to perform their different things in time. Moreover, the remind app can be used by all age groups.
 > 4. Normally, we switch tabs to surf various social media accounts at a time on our mobile devices. This app will combine all the significant social media such as Twitter, Facebook, Instagram, etc. and will act as a single platform that the user needs to be on..
 
-* [Pabodha Wimalasuriya] https://github.com/PBWim
+* [Pabodha Wimalasuriya](https://github.com/PBWim)
 
 > Create an infographic.
 > 1. Infographics are very brain-friendly. They create a powerful verbal/visual mix that helps encode information in students’ long-term memory.
