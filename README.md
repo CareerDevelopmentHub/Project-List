@@ -34,6 +34,17 @@ in the following format "ritu2110".
 > 19. Real time Object Detection.
 > 20. An app that makes use of Github's API to tug your wide variety of contributions from Github and merge display them withinside the repute bar of your phone. Also an in depth precis of contributions might be made to be had on clicking the notification.
 
+* [Kshitiz Ranjan](https://github.com/kshitizranjan15)
+
+
+
+> 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem. 
+>  2. An App that can helps farmers to see weather Before Cultivation.
+>  3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
+>   4. An Application which will track our attendance,display semester records and also all notices which issued by college and university
+>    5. An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development).
+
+
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
 > 1. A basic website for those who haven't worked on any project but they want to have a good start - Make a Website with payment integration using API of PAYTM,RAZORPAY,PAYPAL,etc.(anyone among them). Website's basic theme should be on donation purpose only. 
@@ -42,21 +53,15 @@ in the following format "ritu2110".
 > 4. A Java project that will convert all the forms of currency , weight ,height and temperature. Your program should ask the user that which type of conversion he/she wants to do and after selecting that he/she should be able to enter the type of conversion like if he wants to do currency conversion then he/she should be able to do the type of currency convert.Eg. USD to INR or INR to USD and vice versa.
 > 5. Make a java project to convert the text or numeric value to any type of encoded text and it should finally bring back to original text and print both the encoded and decoded text after encryption. 
 
-* [Kshitiz Ranjan](https://github.com/kshitizranjan15)
-
-> 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem.
-> 2. An App that can helps farmers to see weather Before Cultivation.
-> 3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
-> 4. An Application which will track our attendance,display semester records and also all notices which issued by college and university.
-
-
-
-> 5. An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development).
 
 
 
 
- 
+
+
+
+
+
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
 > 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. From the app users can even find a correct team partner with required skills for their new project ideas.
@@ -73,6 +78,7 @@ in the following format "ritu2110".
 > 2. Smart Travel guide systems powered by AR Technology. That can use map api along with some relevant api data to show valuable information about the place before travel and also provide them a 3D view of the place as a preview.
 > 3. A serverless chat application using socket programming.
 > 4. Intelligent chess game solver with computer and user. Using JavaFx and Java.
+
 
 * [Sahil Agarwal](https://github.com/agarwalsahil0210)
 
