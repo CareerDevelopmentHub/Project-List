@@ -111,3 +111,8 @@ Reminder web app reminds you about certain activities that you need to perform i
 > 4. Pro tip: To keep students from spending inordinate amounts of time searching for the perfect icon, share a Google Drawings template for them to use where you’ve provided lots of icons. I’ve done this in these “icon boards” templates. Make something of your own — or copy one of mine and assign it to your students!
 
 > 5. As mentioned earlier, end-of-semester final projects won’t include everything students have learned. Infographics force them to summarize, to be succinct, to curate and choose carefully.
+
+* [Nayaneeka Mahapatra](https://github.com/nexi9)
+
+> 1. Create a Twitter Web Scraping tool that filters out tweets, to know people's sentiments about a specific topic.
+> 2. A chrome extension that tracks your screentime for the day.
