@@ -91,3 +91,8 @@ Reminder web app reminds you about certain activities that you need to perform i
 
 > 1. Create a Twitter Web Scraping tool that filters out tweets, to know people's sentiments about a specific topic.
 > 2. A chrome extension that tracks your screentime for the day.
+
+
+* [Ritik Giri](https://github.com/ritik-giri)
+
+> 1. Hotel Reservation System (Computer based system that will be used to manage guest and hotel information, online payment feature for customers or pay at counter , customers can give review and manage services ,Admins can only manage and update customer data).
