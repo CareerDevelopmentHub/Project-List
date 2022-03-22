@@ -87,7 +87,7 @@ Financial and Quality of Life calculator. Platform analyses marriage duration, a
 Reminder web app reminds you about certain activities that you need to perform in your daily routine life as it helps users to perform their different things in time. Moreover, the remind app can be used by all age groups.
 > 4. Normally, we switch tabs to surf various social media accounts at a time on our mobile devices. This app will combine all the significant social media such as Twitter, Facebook, Instagram, etc. and will act as a single platform that the user needs to be on..
 
-* [Pabodha Wimalasuriya](https://github.com/PBWim)
+* [Nayaneeka Mahapatra](https://github.com/nexi9)
 
-> 1. Create an infographic. Infographics are very brain-friendly. They create a powerful verbal/visual mix that helps encode information in students’ long-term memory.
-Plus, they can be fun to create! They can end up being these visually stimulating products of student learning … the kind that students want to share with others! I love pulling in icons from The Noun Project or Flat Icon to blend with short snippets of text — phrases or single sentences. Pro tip: To keep students from spending inordinate amounts of time searching for the perfect icon, share a Google Drawings template for them to use where you’ve provided lots of icons. I’ve done this in these “icon boards” templates. Make something of your own — or copy one of mine and assign it to your students! As mentioned earlier, end-of-semester final projects won’t include everything students have learned. Infographics force them to summarize, to be succinct, to curate and choose carefully.
+> 1. Create a Twitter Web Scraping tool that filters out tweets, to know people's sentiments about a specific topic.
+> 2. A chrome extension that tracks your screentime for the day.
