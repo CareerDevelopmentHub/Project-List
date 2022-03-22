@@ -96,3 +96,8 @@ Reminder web app reminds you about certain activities that you need to perform i
 * [Ritik Giri](https://github.com/ritik-giri)
 
 > 1. Hotel Reservation System (Computer based system that will be used to manage guest and hotel information, online payment feature for customers or pay at counter , customers can give review and manage services ,Admins can only manage and update customer data).
+
+* [Arman Ali Khan](https://github.com/Arman-ali-khan-786)
+
+> 1. Create a TicTakToe game webapp with 2 or multiple users functionality and also store their progress like no of games played , win or loose etc .. and display      them  in their profiles.
+> 2. Build a python application that will transform an image into its cartoon using machine learning libraries.
