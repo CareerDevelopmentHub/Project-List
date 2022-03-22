@@ -36,14 +36,11 @@ in the following format "ritu2110".
 
 * [Kshitiz Ranjan](https://github.com/kshitizranjan15)
 
-
-
 > 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem. 
->  2. An App that can helps farmers to see weather Before Cultivation.
->  3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
->   4. An Application which will track our attendance,display semester records and also all notices which issued by college and university
->    5. An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development).
-
+> 2. An App that can helps farmers to see weather Before Cultivation.
+> 3. An Application which will display our BODY MASS INDEX(BMI), and it will also inform us we are either underweight or normal weight or over weight or obese.
+> 4. An Application which will track our attendance,display semester records and also all notices which issued by college and university
+> 5. An app that makes use of Github's API to tug your quantity of contributions from Github with repo link. (challenge primarily based totally on development).
 
 * [Akash Kumar Singh](https://github.com/akashrajput25)
 
@@ -53,20 +50,11 @@ in the following format "ritu2110".
 > 4. A Java project that will convert all the forms of currency , weight ,height and temperature. Your program should ask the user that which type of conversion he/she wants to do and after selecting that he/she should be able to enter the type of conversion like if he wants to do currency conversion then he/she should be able to do the type of currency convert.Eg. USD to INR or INR to USD and vice versa.
 > 5. Make a java project to convert the text or numeric value to any type of encoded text and it should finally bring back to original text and print both the encoded and decoded text after encryption. 
 
-
-
-
-
-
-
-
-
-
 * [Vinayak](https://github.com/ASVKVINAYAK)
 
 > 1. A Project Tinder app where users can showcase their projects, blogs  and can like it by swiping right just like tinder. From the app users can even find a correct team partner with required skills for their new project ideas.
-> 2. Algorithm Visualizer - A GUI Application where user can view how algorithms work like if he enters to sort an array then it will show the process, also solves given test        cases.
-> 3. A web app / android app which shows user's ranking in one place like it shows user ranking of Hackerrank, Codechef with a practice area where user can find all important          algorithms questions in one place.  
+> 2. Algorithm Visualizer - A GUI Application where user can view how algorithms work like if he enters to sort an array then it will show the process, also solves given test cases.
+> 3. A web app / android app which shows user's ranking in one place like it shows user ranking of Hackerrank, Codechef with a practice area where user can find all important algorithms questions in one place.  
 
 * [SumanMore](https://github.com/SumanMore)
 
@@ -101,13 +89,5 @@ Reminder web app reminds you about certain activities that you need to perform i
 
 * [Pabodha Wimalasuriya](https://github.com/PBWim)
 
-> Create an infographic.
-> 1. Infographics are very brain-friendly. They create a powerful verbal/visual mix that helps encode information in students’ long-term memory.
-
-> 2. Plus, they can be fun to create! They can end up being these visually stimulating products of student learning … the kind that students want to share with others!
-
-> 3. I love pulling in icons from The Noun Project or Flat Icon to blend with short snippets of text — phrases or single sentences.
-
-> 4. Pro tip: To keep students from spending inordinate amounts of time searching for the perfect icon, share a Google Drawings template for them to use where you’ve provided lots of icons. I’ve done this in these “icon boards” templates. Make something of your own — or copy one of mine and assign it to your students!
-
-> 5. As mentioned earlier, end-of-semester final projects won’t include everything students have learned. Infographics force them to summarize, to be succinct, to curate and choose carefully.
+> 1. Create an infographic. Infographics are very brain-friendly. They create a powerful verbal/visual mix that helps encode information in students’ long-term memory.
+Plus, they can be fun to create! They can end up being these visually stimulating products of student learning … the kind that students want to share with others! I love pulling in icons from The Noun Project or Flat Icon to blend with short snippets of text — phrases or single sentences. Pro tip: To keep students from spending inordinate amounts of time searching for the perfect icon, share a Google Drawings template for them to use where you’ve provided lots of icons. I’ve done this in these “icon boards” templates. Make something of your own — or copy one of mine and assign it to your students! As mentioned earlier, end-of-semester final projects won’t include everything students have learned. Infographics force them to summarize, to be succinct, to curate and choose carefully.
