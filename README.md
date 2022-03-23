@@ -102,8 +102,6 @@ Reminder web app reminds you about certain activities that you need to perform i
 > 1. Create a TicTakToe game webapp with 2 or multiple users functionality and also store their progress like no of games played , win or loose etc .. and display      them  in their profiles.
 > 2. Build a python application that will transform an image into its cartoon using machine learning libraries.
 
-
-
 * [Kaushik Lakhani](https://github.com/kaal-coder)
 
 > 1. An app/website that lets you posts stuff, be it picture or a video according to the date you wish to post in back. It will help someone upload their past achievement too with the date. People can collaborate (connect) with each other and like/comment on posts. Hashtags can be added in the posts, so that one can search and connect with people according to their similar choice.
