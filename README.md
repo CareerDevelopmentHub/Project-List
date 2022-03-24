@@ -105,5 +105,4 @@ Reminder web app reminds you about certain activities that you need to perform i
 * [Kaushik Lakhani](https://github.com/kaal-coder)
 
 > 1. An app/website that lets you posts stuff, be it picture or a video according to the date you wish to post in back. It will help someone upload their past achievement too with the date. People can collaborate (connect) with each other and like/comment on posts. Hashtags can be added in the posts, so that one can search and connect with people according to their similar choice.
-
 > 2. A Portfolio Website maker. The user will be asked about his basic personal details, Academic Qualifications, Work and Volunteer Experience, Skills, Projects, Achievements and his Social Accounts. After providing this, the user will get code, which they can upload in GitHub and use them as their Portfolio Website. The same details can be used to make one’s Resume too.
