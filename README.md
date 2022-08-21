@@ -34,6 +34,36 @@ in the following format "ritu2110".
 > 19. Real time Object Detection.
 > 20. An app that makes use of Github's API to tug your wide variety of contributions from Github and merge display them withinside the repute bar of your phone. Also an in depth precis of contributions might be made to be had on clicking the notification.
 
+# Added Topics
+```
+CLI Snippets
+Bluetooth Chatting (Android)
+Shortest Route Navigation
+CRUD without DB
+Blogging Website
+Web App for Feistel Cipher
+Event Handler Website
+Sharedrop.io Clone
+Bill Splitter
+File Zipper
+Currency Detector
+Low Cost Travel Planner
+Own Library for DS
+Image Encryption
+Splash Screen Generator
+Add Gitignore 
+Voice Based Notification Tracker
+Parse JSON to Pretty HTML
+CDH Website
+Image Compression Bot
+CLI Regex Tester
+Sudoku Solver
+Weather Forecast
+Same IP Chat System
+Auto Suggestion CLI Tool
+PDF Exporter
+```
+
 * [Kshitiz Ranjan](https://github.com/kshitizranjan15)
 
 > 1. An app that lets its users send notifications in case of an emergency or a panic situation with detailed analysis of location and kind of problem. 
